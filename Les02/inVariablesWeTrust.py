@@ -1,6 +1,6 @@
 print("\nHello You! Welkom bij mijn Variabelenopdracht.\n")
 
-Character1 = "c"
+Character1 = 'c'
 
 Float1 = 6.9
 
