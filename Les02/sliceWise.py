@@ -24,10 +24,10 @@ vak4 = tekst2[52:71]
 print(vak1, vak2, vak3, vak4)
 
 tekst3 = 'Wat is hier het laatste woord?'
-laatsteWoord = tekst3[22:29]
+laatsteWoord = tekst3[-6:-1]
 print(laatsteWoord)
                                                 #29 = i!!!! im Be
 tekst4 = 'Het www is ontwikkeld vanaf 1989 door Tim Berners-Lee'
-L5_8 = tekst4[5:10]
-L29_33 = tekst4[39:44]
+L5_8 = tekst4[4:8]
+L29_33 = tekst4[28:32]
 print(L5_8, L29_33)

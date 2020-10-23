@@ -11,9 +11,14 @@ import random
 
 def randomiseLetters(original):
     randomised = ''.join(random.sample(original, len(original)))
-    print(randomised)
-    return original
+    return randomised
 
-randomiseLetters("test")
-randomiseLetters("word")
-randomiseLetters("Star")
+print(randomiseLetters("test"))
+print(randomiseLetters("word"))
+print(randomiseLetters("Star"))
+
+woord = input("Welk woord wil je shuffelen?")
+
+randomise = randomiseLetters(woord)
+
+print(randomise.upper())
