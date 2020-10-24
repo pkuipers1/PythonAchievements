@@ -1,5 +1,5 @@
 # PythonAchievements
-![](master/PythonAchievements/Other/python-logo.png)
+![](Other/python-logo.png)
 ## Overzicht
 Dit zijn de afgeronde Python opdrachten van les 1-6 van de eerste periode, gemaakt door Patricia Kuipers.
 
