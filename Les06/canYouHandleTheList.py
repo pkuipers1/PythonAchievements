@@ -5,16 +5,16 @@
 
 lijstje1 = ["appel", 1, "hond", 3.5, False]
 
-print("De lijst is nu:", lijstje1)
+print("\nDe lijst is nu:", lijstje1)
 
 lijstje1.append("appel")
 
-print("Met nog een appel is de lijst:", lijstje1)
+print("\nMet nog een appel is de lijst:", lijstje1)
 
 aantalAppeltjes = lijstje1.count("appeltje")
 
-print("Het aantal appels in de lijst is nu:", aantalAppeltjes)
+print("\nHet aantal appels in de lijst is nu:", aantalAppeltjes)
 
 lijstje1.reverse()
 
-print("De lijst omgedraait is:", lijstje1)
+print("\nDe lijst omgedraait is:", lijstje1,"\n")
